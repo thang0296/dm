@@ -31,5 +31,5 @@ const App = () => (
     </AppThemeProvider>
   </AppContextProvider>
 );
-
+// giả sử t code vào đây đoạn này
 export default App;
